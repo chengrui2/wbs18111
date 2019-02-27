@@ -86,3 +86,5 @@ git rm --cache -r src                                // 移除一个目录（包
 git commit Readme.txt
 git commit hello.txt haha.log -m "add hello.txt and haha.log files"
 git commit -m "add src/"    // 不写文件列表，就表明将当前暂存区中的所有内容都被提交到仓库区
+
+//////////////////////////////////
