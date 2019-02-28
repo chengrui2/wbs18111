@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dataformat": "^1.0.0",
-    "jquery": "1.1.5"
+    "jquery": "1.1.7"
+
   }
 }
