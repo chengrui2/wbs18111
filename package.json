@@ -1,6 +1,6 @@
 {
   "name": "gittest",
-  "version": "1.1.2",
+  "version": "1.1.5",
   "description": "GIT 是一个版本控制工具（主要用于团队下多人协作的代码管理——提交、合并、分支、回溯。。。）",
   "main": "orange.js",
   "scripts": {
