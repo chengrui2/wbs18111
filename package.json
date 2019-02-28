@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dataformat": "^1.0.0"
+    "dataformat": "^1.0.0",
+    "jquery": "1.1.5"
   }
 }
